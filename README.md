@@ -30,7 +30,7 @@ The following dependencies needed to be installed before running the application
   #### hvplot method
 Display an interactively explorable Bokeh plot with panning, zooming, hovering, and clickable/selectable legends
 
-![markdown_image](https:https://github.com/JuneB2021/Module-7-Challenge/blob/main/markdown_image/Line%20Chart.PNG)
+![markdown_image](https://github.com/JuneB2021/Module-7-Challenge/blob/main/markdown_image/Line%20Chart.PNG)
 
 ---
 
